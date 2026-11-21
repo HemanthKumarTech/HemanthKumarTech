@@ -1,6 +1,6 @@
 # Hi, I'm Hemanth Kumar Burada 👋
 
-I'm a QA Automation Engineer with 3.7 years of experience testing LG webOS Smart TV applications, software, and system features. I work across functional testing, UI automation, API validation, and regression testing.
+I'm a SDET Automation Engineer with 3.7 years of experience testing LG webOS Smart TV applications, software, and system features. I work across functional testing, UI automation, API validation, and regression testing.
 
 ## 🛠️ Skills
 
